@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-016-introductory-biology-fall-2018/b25adec421375cf8baf479208be147e7_mvjXFh4P08I.vtt
+file: /media/courses/7-016-introductory-biology-fall-2018/b25adec421375cf8baf479208be147e7_mvjXFh4P08I.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: b25adec4-2137-5cf8-baf4-79208be147e7

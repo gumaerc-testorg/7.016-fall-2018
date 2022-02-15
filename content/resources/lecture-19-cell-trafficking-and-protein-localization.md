@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 19: Cell Trafficking and Protein Localization'
 uid: 99d04351-1065-16c4-686c-8be3a8310911
 video_files:
   archive_url: https://archive.org/download/MIT7.016F18/MIT7_016F18_lec19_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/7-016-introductory-biology-fall-2018/8b057d50990a5b0ea6007af1a160df51_Qfw0C0Ac-Tk.vtt
+  video_captions_file: /courses/7-016-introductory-biology-fall-2018/8b057d50990a5b0ea6007af1a160df51_Qfw0C0Ac-Tk.vtt
   video_thumbnail_file: https://img.youtube.com/vi/Qfw0C0Ac-Tk/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/7-016-introductory-biology-fall-2018/85e7eeef9390b51fbae23ffe2cae93da_Qfw0C0Ac-Tk.pdf
+  video_transcript_file: /courses/7-016-introductory-biology-fall-2018/85e7eeef9390b51fbae23ffe2cae93da_Qfw0C0Ac-Tk.pdf
 video_metadata:
   youtube_id: Qfw0C0Ac-Tk
 ---

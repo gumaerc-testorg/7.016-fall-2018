@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: Chemical Bonding and Molecular Interactions; Lipids and Membranes'
 uid: 5df81e1f-8ea9-4afa-fc85-0e55219cea3a
 video_files:
   archive_url: https://archive.org/download/MIT7.016F18/MIT7_016F18_lec02_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/7-016-introductory-biology-fall-2018/7e633f241664597aa18df0629f826bc7_aKTOS0Nrlug.vtt
+  video_captions_file: /courses/7-016-introductory-biology-fall-2018/7e633f241664597aa18df0629f826bc7_aKTOS0Nrlug.vtt
   video_thumbnail_file: https://img.youtube.com/vi/aKTOS0Nrlug/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/7-016-introductory-biology-fall-2018/41c4c613dbd86962c0fcaa5b2f51c2c5_aKTOS0Nrlug.pdf
+  video_transcript_file: /courses/7-016-introductory-biology-fall-2018/41c4c613dbd86962c0fcaa5b2f51c2c5_aKTOS0Nrlug.pdf
 video_metadata:
   youtube_id: aKTOS0Nrlug
 ---

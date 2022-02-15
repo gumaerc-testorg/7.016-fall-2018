@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 29: Cell Imaging Techniques'
 uid: a9365f05-af4f-0e9a-6b4c-64ccfbc7e328
 video_files:
   archive_url: https://archive.org/download/MIT7.016F18/MIT7_016F18_lec29_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/7-016-introductory-biology-fall-2018/ff368dbf630e59d194d18c4874e8ad79_LhbtCTwtdDU.vtt
+  video_captions_file: /courses/7-016-introductory-biology-fall-2018/ff368dbf630e59d194d18c4874e8ad79_LhbtCTwtdDU.vtt
   video_thumbnail_file: https://img.youtube.com/vi/LhbtCTwtdDU/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/7-016-introductory-biology-fall-2018/8020df6eb6f73ef95042cb6a3033841f_LhbtCTwtdDU.pdf
+  video_transcript_file: /courses/7-016-introductory-biology-fall-2018/8020df6eb6f73ef95042cb6a3033841f_LhbtCTwtdDU.pdf
 video_metadata:
   youtube_id: LhbtCTwtdDU
 ---

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-016-introductory-biology-fall-2018/cf3e136f3bfc24955a70b68281414a14_L4tEwAsVW0I.pdf
+file: /media/courses/7-016-introductory-biology-fall-2018/cf3e136f3bfc24955a70b68281414a14_L4tEwAsVW0I.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: cf3e136f-3bfc-2495-5a70-b68281414a14
