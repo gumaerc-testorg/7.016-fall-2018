@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 12: Genetics 1\u2014Cell Division and Segregating Genetic Material"
 uid: d36a571a-f0aa-239b-3433-aae9044645a9
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 30: Immunology 1\u2014Diversity, Specificity, and B Cells"
 uid: 56557954-d2ce-c130-e043-468ac33404f5
 video_files:

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6ed6bdac-cda3-a3b7-1732-ac482dac199c
 resourcetype: Document
 title: '7.016 Introductory Biology: Assignment 1 Solutions'
 uid: 280be80e-f201-1b9e-0558-a9a3ff2fe1bf

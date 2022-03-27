@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 364d6523-f44d-a347-879f-da7db7c18bd6
 resourcetype: Document
 title: '7.016 Introductory Biology: Exam 1 Solutions '
 uid: 63096f87-b1b2-818b-20ed-460646e1579c

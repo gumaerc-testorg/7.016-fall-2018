@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Chemical Bonding and Molecular Interactions; Lipids and Membranes'
 uid: 5df81e1f-8ea9-4afa-fc85-0e55219cea3a
 video_files:

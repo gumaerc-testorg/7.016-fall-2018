@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 24: Stem Cells, Apoptosis, and Tissue Homeostasis'
 uid: e0b17799-4681-4ac7-887a-dcd1fbfbd290
 video_files:
