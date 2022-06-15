@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -30,3 +31,6 @@ Description
 After wrapping up the lecture on lipids, Professor Imperiali moves on to discussing amino acids, peptides, and proteins.
 
 **Instructor:** Barbara Imperiali
+
+
+

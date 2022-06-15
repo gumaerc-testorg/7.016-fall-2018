@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -30,3 +31,6 @@ Description
 After completing the topic of protein trafficking, Professor Imperiali introduces cell signaling. In the first of two lectures on this topic, she covers the paradigms and mechanics of cell signaling.
 
 **Instructor:** Barbara Imperiali
+
+
+

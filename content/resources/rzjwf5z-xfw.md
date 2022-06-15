@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/7-016-introductory-biology-fall-2018/a41bc790a0a78b3ec6889ff927730881_rZjwF5z-Xfw.srt
+file: /courses/7-016-introductory-biology-fall-2018/a41bc790a0a78b3ec6889ff927730881_rZjwF5z-Xfw.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

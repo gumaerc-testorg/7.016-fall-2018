@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This page contains all available video captures for the MIT course 7.016
+  Introductory Biology of Fall 2018.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos

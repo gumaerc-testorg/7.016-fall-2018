@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -30,3 +31,6 @@ Description
 Having introduced nucleic acids in the previous lecture, Professor Imperiali now focuses on their role in information storage and information transfer, beginning with the process of replication.
 
 **Instructor:** Barbara Imperiali
+
+
+

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -30,3 +31,6 @@ Description
 In this first lecture on genetics, Professor Martin talks about how information flows between cells, such as from parent cells to daughter cells. He also talks about information flows from one generation to the next, ending lecture with a demo.
 
 **Instructor:** Adam Martin
+
+
+

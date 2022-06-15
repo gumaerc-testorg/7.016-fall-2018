@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -30,3 +31,6 @@ Description
 Professor Martin begins his lecture on electrical signaling by talking about neurons, followed by action potentials, synapses, and optogenetics.
 
 **Instructor:** Adam Martin
+
+
+

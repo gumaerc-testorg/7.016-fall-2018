@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -30,3 +31,6 @@ Description
 This lecture covers microorganisms and some of the threats they pose to human health, such as infectious diseases. Professor Imperiali also discusses antibiotics and the mechanisms by which bacteria become resistant.
 
 **Instructor:** Barbara Imperiali
+
+
+

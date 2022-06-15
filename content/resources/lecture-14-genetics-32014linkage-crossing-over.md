@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -30,3 +31,6 @@ Description
 In his third lecture on genetics, Professor Martin picks up from the last lecture on eye color in fruit flies, and then continues with Mendelian inheritance. He then talks about linkage, crossing over, and gene mapping.
 
 **Instructor:** Adam Martin
+
+
+

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides optional readings and videos for each unit of the
+  course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

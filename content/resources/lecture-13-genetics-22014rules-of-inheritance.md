@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -30,3 +31,6 @@ Description
 Professor Martin continues with genetics, discussing the laws of inheritance, and how they connect to the behavior of chromosomes undergoing meiosis.
 
 **Instructor:** Adam Martin
+
+
+

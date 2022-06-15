@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -30,3 +31,6 @@ Description
 Professor Imperiali spends today's lecture on the HIV virus, its mechanisms, targets for therapeutics, and resistance to therapeutic agents.
 
 **Instructor:** Barbara Imperiali
+
+
+

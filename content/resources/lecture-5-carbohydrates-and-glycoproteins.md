@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -30,3 +31,6 @@ Description
 Professor Imperiali begins with a wrap-up of the previous lecture on enzymes, and then moves on to discussing carbohydrates.
 
 **Instructor:** Barbara Imperiali
+
+
+

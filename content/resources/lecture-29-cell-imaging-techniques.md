@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -30,3 +31,6 @@ Description
 Professor Martin introduces cell imaging techniques, which are tools that allow biologists to observe what's going on living cells. He goes over several types of microscopy and discusses how each deals with the challenges of resolution and contrast.
 
 **Instructor:** Adam Martin
+
+
+

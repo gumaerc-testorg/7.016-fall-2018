@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -30,3 +31,6 @@ Description
 In this final lecture of the Biochemistry unit, Professor Imperiali covers nucleotides and nucleic acids, discussing their structures and their importance as fundamental units for information storage and information transfer.
 
 **Instructor:** Barbara Imperiali
+
+
+
