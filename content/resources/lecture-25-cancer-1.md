@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ Description
 After previous lectures on how cell division is regulated at the single cell level, and how regeneration is mediated at the level of an entire tissue, Professor Martin talks about how all of that can go wrong, resulting in cancer.
 
 **Instructor:** Adam Martin
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ Description
 Professor Imperiali covers the basics of covalent and non-covalent chemical bonding. She then focuses on lipids, their structures and properties, and the formation of lipid bilayers.
 
 **Instructor:** Barbara Imperiali
-
-
 

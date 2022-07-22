@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ Description
 Beginning with the fight or flight response, this Halloween lecture looks in more detail at cellular signaling pathways in action.
 
 **Instructor:** Barbara Imperiali
-
-
 

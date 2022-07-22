@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ Description
 Professors Imperiali and Martin introduce themselves and the teaching team. Then after going over the organization of the course, they give students an overview of modern biology and topics that will be covered during the semester.
 
 **Instructors:** Barbara Imperiali, Adam Martin
-
-
 

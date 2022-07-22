@@ -5,6 +5,7 @@ file: /courses/7-016-introductory-biology-fall-2018/63096f87b1b2818b20ed460646e1
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

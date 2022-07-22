@@ -4,6 +4,7 @@ description: ''
 file: /courses/7-016-introductory-biology-fall-2018/f8f7680e726e78e266e050de79831a0c_kVu37T6sB_E.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

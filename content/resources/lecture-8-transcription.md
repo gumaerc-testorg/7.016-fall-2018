@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ Description
 After covering accuracy, speed, and repair mechanisms in DNA replication, Professor Imperiali moves onto the process of transcription and the generation of mature mRNA.
 
 **Instructor:** Barbara Imperiali
-
-
 

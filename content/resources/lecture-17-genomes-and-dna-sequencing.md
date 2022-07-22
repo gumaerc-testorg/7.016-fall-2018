@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ Description
 Professor Martin talks about DNA sequencing and why it is helpful to know the DNA sequence, followed by linkage mapping and then the different methods of sequencing DNA.
 
 **Instructor:** Adam Martin
-
-
 

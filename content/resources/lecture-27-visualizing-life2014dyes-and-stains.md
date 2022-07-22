@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ Description
 In this first of three lectures on visualizing life, Professor Imperiali talks about the applications of luminescence and fluorescence in service to biology. Today's lecture covers their discovery and how they were developed into widely-used tools.
 
 **Instructor:** Barbara Imperiali
-
-
 

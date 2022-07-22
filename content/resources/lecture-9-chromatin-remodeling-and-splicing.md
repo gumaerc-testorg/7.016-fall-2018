@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ Description
 Professor Imperiali finishes up talking about transcription, and then focuses on transcription control for the remainder of the lecture. She ends with an introduction to translation, to be covered in detail during the next lecture.
 
 **Instructor:** Barbara Imperiali
-
-
 

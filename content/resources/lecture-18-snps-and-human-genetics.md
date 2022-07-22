@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ Description
 Using the example of aniridia, which disrupts formation of the iris, Professor Martin describes how to clone a gene that's responsible for a disease. He covers the techniques of positional gene cloning, genomic mapping, cDNA libraries, and hybridization.
 
 **Instructor:** Adam Martin
-
-
 

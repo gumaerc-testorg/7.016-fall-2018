@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ Description
 Professor Imperiali goes through the mechanisms of how bacteria develop resistance against antibiotics. Following this, she introduces viruses and discusses some of their characteristics.
 
 **Instructor:** Barbara Imperiali
-
-
 

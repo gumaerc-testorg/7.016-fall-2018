@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ Description
 Continuing the topic of immunity, Professor Martin talks about how immune cells are able to see within a cell in order to address an infection in the body. He focuses on the processes of antigen presentation, isotype switching, and autoimmunity.
 
 **Instructor:** Adam Martin
-
-
 
