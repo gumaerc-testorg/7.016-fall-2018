@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides four of the seven assigned problem sets for the
+  course along with solutions.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 6ed6bdac-cda3-a3b7-1732-ac482dac199c
 ---
@@ -19,55 +24,55 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps1)
+{{% resource_link e88b0fad-70ee-9994-1887-d8fcdf101f14 "Problem Set 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps1_soln)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps2)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solution to Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps2_soln)
+{{% resource_link 280be80e-f201-1b9e-0558-a9a3ff2fe1bf "Solution to Problem Set 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps3)
+{{% resource_link bb292f96-d9aa-81ba-971d-f92aea07be01 "Problem Set 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps3_soln)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps4)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solution to Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps4_soln)
+{{% resource_link e7e1c35f-70fa-d2c9-ff80-9cd0dd29e4d7 "Solution to Problem Set 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps5)
+{{% resource_link 5935e57c-6234-b265-cbcc-372431ee71a2 "Problem Set 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps5_soln)
+{{% resource_link 0c6b7da1-532f-8c2e-74f6-c8c5e9fe529c "Solution to Problem Set 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps6)
+{{% resource_link 83fc6e93-5164-60a2-d921-156d7f65c117 "Problem Set 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solution to Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit7_016f18ps6_soln)
+{{% resource_link 34be4466-1896-5c86-9a23-30e0a6b76fc0 "Solution to Problem Set 4 (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link aad6494c-e4c5-32c5-0221-988b7f468bc8 "Problem Set 5 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link e078dffe-83ad-81c8-6b5f-d759e95b5026 "Solution to Problem Set 5 (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link c396728a-371a-c2d6-0720-4c791588c538 "Problem Set 6 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link 49b44b14-398f-8403-ce20-ae4195ae35c9 "Solution to Problem Set 6 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
