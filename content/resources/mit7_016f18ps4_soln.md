@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-016-introductory-biology-fall-2018/34be446618965c869a2330e0a6b76fc0_MIT7_016F18PS4_soln.pdf
+file_size: 339414
 file_type: application/pdf
 learning_resource_types:
 - Assignments
