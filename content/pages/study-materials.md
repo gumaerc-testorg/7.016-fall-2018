@@ -2,12 +2,12 @@
 content_type: page
 description: This section provides optional readings and videos for each unit of the
   course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
 uid: 7ff8e3ff-95d9-8a06-250c-e1572360f1fb
 ---
-
 The list below contains optional readings and videos for this course.
 
 [The Scientist—Exploring Life, Inspiring Innovation](https://www.the-scientist.com/)
@@ -16,7 +16,7 @@ The list below contains optional readings and videos for this course.
 
 [ASBMB Today](https://www.asbmb.org/asbmb-today)—American Society for Biochemistry and Molecular Biology
 
-Drew Berry. "[Molecular Visualisations of DNA](https://www.wehi.edu.au/wehi-tv/molecular-visualisations-dna)." Walter and Eliza Hall Institute of Medical Research. 2003.
+Drew Berry. "[Molecular Visualisations of DNA](https://www.youtube.com/watch?v=OjPcT1uUZiE)." WEHImovies. 2003.
 
 "[Short Translation](https://upload.wikimedia.org/wikipedia/commons/9/94/Protein_translation.gif)." Wikimedia.org.
 
