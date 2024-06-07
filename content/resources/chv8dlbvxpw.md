@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-016-introductory-biology-fall-2018/26572b13aa3957c182573762ac9e3caa_Chv8dlBVXpw.srt
+file_size: 62841
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
