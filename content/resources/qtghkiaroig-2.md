@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/7-016-introductory-biology-fall-2018/2c05e0e8427855c58fecc09991adc589_qtGHKiAROig.vtt
+file: /courses/7-016-introductory-biology-fall-2018/2c05e0e8427855c58fecc09991adc589_qtGHKiAROig.vtt
 file_size: 52654
 file_type: application/x-subrip
 learning_resource_types: []
