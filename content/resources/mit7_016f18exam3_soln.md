@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/7-016-introductory-biology-fall-2018/3c86602523b88086e5635fc18f0e0e32_MIT7_016F18exam3_soln.pdf
+file: /ol-ocw-studio-app/courses/7-016-introductory-biology-fall-2018/3c86602523b88086e5635fc18f0e0e32_MIT7_016F18exam3_soln.pdf
 file_size: 346958
 file_type: application/pdf
 image_metadata:
