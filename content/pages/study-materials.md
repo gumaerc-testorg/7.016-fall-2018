@@ -10,22 +10,22 @@ uid: 7ff8e3ff-95d9-8a06-250c-e1572360f1fb
 ---
 The list below contains optional readings and videos for this course.
 
-[The Scientist—Exploring Life, Inspiring Innovation](https://www.the-scientist.com/)
+{{% resource_link "a638acaf-c3de-4034-9150-9f65d344f5f8" "The Scientist—Exploring Life, Inspiring Innovation" %}}
 
-[RCSB PDB](http://www.rcsb.org/)—Research Collaboratory for Structural Bioinformatics Protein Data Bank
+{{% resource_link "17371fd5-098f-4ed4-94a9-66a7aacc5ee1" "RCSB PDB" %}}—Research Collaboratory for Structural Bioinformatics Protein Data Bank
 
-[ASBMB Today](https://www.asbmb.org/asbmb-today)—American Society for Biochemistry and Molecular Biology
+{{% resource_link "66cbeaa1-57ba-42b7-bd60-7f744713f706" "ASBMB Today" %}}—American Society for Biochemistry and Molecular Biology
 
-Drew Berry. "[Molecular Visualisations of DNA](https://www.youtube.com/watch?v=OjPcT1uUZiE)." WEHImovies. 2003.
+Drew Berry. "{{% resource_link "16d131e8-0e33-4621-be93-779dca1e629b" "Molecular Visualisations of DNA" %}}." WEHImovies. 2003.
 
-"[Short Translation](https://upload.wikimedia.org/wikipedia/commons/9/94/Protein_translation.gif)." Wikimedia.org.
+"{{% resource_link "26391341-ebcc-464c-81ab-53ab490b58e2" "Short Translation" %}}." Wikimedia.org.
 
-Drew Berry. "[DNA Central Dogma Part 1—Transcription](https://www.wehi.edu.au/wehi-tv/dna-central-dogma-part-1-transcription)." Walter and Eliza Hall Institute of Medical Research. 2003.
+Drew Berry. "{{% resource_link "deee24b9-3081-4a7a-ba72-b28f6007e646" "DNA Central Dogma Part 1—Transcription" %}}." Walter and Eliza Hall Institute of Medical Research. 2003.
 
-"[How Enzymes Work](https://pdb101.rcsb.org/learn/videos/how-enzymes-work)." RCSB PDB—Protein Data Bank.
+"{{% resource_link "2e502d99-7dea-4cec-bd15-82b52771abf0" "How Enzymes Work" %}}." RCSB PDB—Protein Data Bank.
 
-Genetic Science Learning Center. "[Cell Size and Scale](http://learn.genetics.utah.edu/content/cells/scale/)." Learn.Genetics. June 22, 2014.
+Genetic Science Learning Center. "{{% resource_link "2ef7b7d4-ad8b-4bed-af85-68b5705e39c1" "Cell Size and Scale" %}}." Learn.Genetics. June 22, 2014.
 
-"[Registration For Educational-Use-Only PyMOL Builds](https://pymol.org/edu/?q=educational/)." PyMOL.org.
+"{{% resource_link "5c9d420e-135f-47f6-8b57-b8f97b601d11" "Registration For Educational-Use-Only PyMOL Builds" %}}." PyMOL.org.
 
-Genetic Science Learning Center. "[DNA Microarray](http://learn.genetics.utah.edu/content/labs/microarray/)." Learn.Genetics. June 22, 2014.
+Genetic Science Learning Center. "{{% resource_link "68ba4508-8e68-445d-9974-8a75c1a23d90" "DNA Microarray" %}}." Learn.Genetics. June 22, 2014.
